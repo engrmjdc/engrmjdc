@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @engrmjdc
+- 👀 I’m interested in Automation testing.
+- 🌱 I’m currently learning automation testing.
+- 💞️ I’m looking to collaborate on learning and improving skills in Automation testing.
+- 📫 You can email me here mjdelacruz.work@gmail.com...
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm a licensed Electronics Engineer who is currently pursuing Software Quality Engineering mainly Automation testing.
